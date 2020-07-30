@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to right,rgb(102, 188, 238),violet);
+    
+}
+h1{
+    margin: 2%;
+    text-align: center;
+    color: darkblue;
+}
+h2{
+    padding-top: 7%;
+    margin-bottom: 3%;
+    font-size: 2vw;
+    text-align: center;
+}
+label{
+   font-size: 1vw;
+   color: darkblue;
+}
+.container{
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: azure;
+    height: 350px;
+    width: 100%;
+    border: 4px 5px solid
+}
+
+label{
+    font-size: 2vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    margin-top: 3%;
+}
+
+table#messages th {
+    text-align: center;
+    font-size: 1vw;
+    
+}
+table#messages td{
+    text-align: center;
+}
